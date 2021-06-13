@@ -1,6 +1,4 @@
 
-            // Task 1 
-
 const delay = ms => {
   // Твой код
     return new Promise(resolve => {
@@ -18,3 +16,6 @@ delay(1000).then(logger); // Resolved after 1000ms
 delay(1500).then(logger); // Resolved after 1500ms
 
 
+
+ 
+   
