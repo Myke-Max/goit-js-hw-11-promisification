@@ -17,7 +17,7 @@
      })
  };
 
- const logSuccess = ([id, time]) => {
+ const logSuccess = (id, time) => {
      console.log(`Transaction ${id} processed in ${time}ms`);
  };
 
